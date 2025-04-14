@@ -1,0 +1,8 @@
+title: "100 Days of Yara in 2024: Day 11" 
+description: Parsing LC_SOURCE_VERSION Mach-O Load Commands for YARA-X
+date: '2024-01-11'
+categories:
+    - YARA-X
+    - 100-days-of-yara-2024 
+    - Mach-O
+    - Load_Command

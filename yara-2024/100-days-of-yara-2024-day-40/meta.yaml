@@ -1,0 +1,9 @@
+title: "100 Days of Yara in 2024: Day 40"
+description: Last bit of refactoring for YARA-X and the Mach-O Module!
+date: '2024-02-09'
+categories:
+    - YARA-X
+    - 100-days-of-yara-2024 
+    - Mach-O
+    - entitlements
+    - function

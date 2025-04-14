@@ -1,0 +1,8 @@
+title: "100 Days of Yara in 2024: Day 23"
+description: Implementing a function to search Mach-O binaries for a specific requested entitlement
+date: '2024-01-23'
+categories:
+    - YARA-X
+    - 100-days-of-yara-2024 
+    - Mach-O
+    - entitlements

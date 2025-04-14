@@ -1,0 +1,7 @@
+title: "100 Days of Yara in 2024: Day 03"
+description: "Making numbers more readable: 0x10000 -> 0x1_000"
+date: '2024-01-03'
+categories:
+    - YARA-X
+    - Open Source
+    - 100-days-of-yara-2024

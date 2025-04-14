@@ -1,0 +1,9 @@
+title: "100 Days of Yara in 2024: Day 22" 
+description: "Parsing the entitlements blob for Mach-O binaries!!"
+date: '2024-01-22'
+categories:
+    - YARA-X
+    - 100-days-of-yara-2024 
+    - Open Source
+    - entitlements
+    - code signature

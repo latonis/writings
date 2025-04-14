@@ -1,0 +1,7 @@
+title: "YARA and Me: Contributing to YARA's Upcoming Release"
+description: "You may know YARA, which is written in C, but do you know YARA-X? YARA-X is written in Rust and is the new evolution (perhaps a revolution while we're at it) for the pattern matching utility."
+date: '2023-11-30'
+categories:
+    - YARA
+    - YARA-X
+    - software engineering

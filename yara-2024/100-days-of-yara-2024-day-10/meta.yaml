@@ -1,0 +1,8 @@
+title: "100 Days of Yara in 2024: Day 10"
+description: Implementing a function to search rpaths for a specified path for the Mach-O Module
+date: '2024-01-10'
+categories:
+    - YARA-X
+    - 100-days-of-yara-2024 
+    - Mach-O
+    - function
