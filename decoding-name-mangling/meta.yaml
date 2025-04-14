@@ -1,7 +1,0 @@
-title: "Decoding Compiler Name Mangling"
-description: "Taking a look at how C++ and Swift mangle function names and how to decode them."
-date: '2025-04-16'
-categories:
-  - compilers
-  - c++
-  - swift
